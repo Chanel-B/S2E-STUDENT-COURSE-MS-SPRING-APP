@@ -48,6 +48,11 @@ STUDENT COURSE
 	 			-description
 	 			-credits
 	 			-studentcourseId
-
+	 	*PORTS
+	 		-STUDENT SERVICE			= 8880
+	 		-REGISTRY-SERVICE 			= 8881
+	 		-STUDENT-COURSE SERVICE 	= 8882
+	 		-COURSE SERVICE				= 8883
+	 		-API-SERVICE 				= 8884
 
 
