@@ -22,4 +22,5 @@ public class Student {
 
     @Column(name = "STUDENTCOURSEID")
     private int studentcourseId;
+
 }

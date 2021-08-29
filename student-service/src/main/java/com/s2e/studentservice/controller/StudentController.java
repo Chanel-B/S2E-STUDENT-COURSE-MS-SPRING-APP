@@ -30,4 +30,5 @@ public class StudentController {
     public Optional<Student> findStudentById(@PathVariable("id") int id){
         return studentRepository.findById(id);
     }
+
 }
