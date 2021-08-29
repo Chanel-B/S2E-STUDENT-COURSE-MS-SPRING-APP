@@ -55,4 +55,9 @@ STUDENT COURSE
 	 		-COURSE SERVICE				= 8883
 	 		-API-SERVICE 				= 8884
 
+TODO 
+	-Add data.sql STUDENT-COURSE SERVICE
+	-Create communication to external service
+	-Try all service with API-GATEWAY service
+
 
