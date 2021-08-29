@@ -2,3 +2,17 @@
 server:
   port: 8883
 
+spring:
+  jpa:
+    defer-datasource-initialization: true
+  application:
+    name: COURSE-SERVICE
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8881/eureka
+  istance:
+    hostname: localhost
