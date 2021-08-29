@@ -1,0 +1,15 @@
+INSERT INTO COURSE(ID, NAME, DESCRIPTION, CREDITS, studentcourseId) VALUES
+(1, 'Analisi', 'Matematics', 12, 1),
+(2, 'Fisica Generale', 'Fisica', 12, 2),
+(3, 'Fondamenti di informatica', 'Informatica', 6, 3),
+(4, 'Fondamenti di Telecomunicazioni', 'Reti di Telecomunicazioni', 6, 4),
+(5, 'Chimica Generale', 'Chimica', 6, 5),
+(6, 'Basi di Dati', 'Database', 6, 6),
+(7, 'Programmazione e laboratorio', 'Linguaggio Java' , 9, 5),
+(8, 'Calcolatori Elettronici', 'Calcolatori Elettronici', 9, 4),
+(9, 'Elettrotecnica', 'Elettrotecnica', 9, 2),
+(10, 'Elettronica', 'Elettronica', 9, 3),
+(11, 'Reti di Calcolatori', 'Reti di Telecomunicazioni', 9, 1),
+(12, 'Matematica applicata', 'Matematica', 9, 2),
+(13, 'Afro Story', 'Africane History', 15, 4),
+(14, 'Cameroon Story', 'Cameroon History', 10, 3);

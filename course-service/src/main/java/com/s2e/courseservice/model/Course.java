@@ -19,6 +19,7 @@ public class Course {
     private String name;
     private String description;
     private int credits;
+    @Column(name = "STUDENTCOURSEID")
     private int studentcourseId;
 
 }
